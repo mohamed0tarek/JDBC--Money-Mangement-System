@@ -1,11 +1,13 @@
 ![Language](https://img.shields.io/badge/language-Java%20-blue.svg)
 ![Language](https://img.shields.io/badge/language-SQL%20-red.svg)
 
-# Money Mangement System 🏛💵
+# Money Mangement System [JDBC] 🏛💵
 
 
 # Overview
 This project is a console application that connected to a datebase to represent a simple money management system. The API used to connect with the database here is **JDBC** of course with respect of transactions rules.<br>
+
+**`NOTE`** ***I build the same project using JPA. If you want to check it [here](https://github.com/mohamed0tarek/JPA--Money-Management-system/).***<br>
 
 <p align="center">
   <img height=140  src="https://images.idgesg.net/images/article/2022/05/what-is-jdbc-fig1-100927559-large.jpg?auto=webp&quality=85,70">
@@ -13,6 +15,7 @@ This project is a console application that connected to a datebase to represent 
 <br>
 
 **JDBC** stands for Java Database Connectivity. JDBC is a Java API to connect and execute the query with the database.
+
 
 # Project parts
 **1. Client** <br>
@@ -38,9 +41,12 @@ Operations that admin can do :
  **4. Connection to Database** <br>
   - Singletone class that take care of all connections between the application and the database
 
-# Technologies
+# Tools
 * JAVA CORE
+* Maven
+* XML
 * MYSQL
+* SQL
 
 # How works
 when you run the application, There are processes you will go through : <br>
