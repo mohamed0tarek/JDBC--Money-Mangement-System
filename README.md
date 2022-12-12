@@ -10,7 +10,7 @@ This project is a console application that connected to a datebase to represent 
 **`NOTE`** ***I build the same project using JPA. If you want to check it [here](https://github.com/mohamed0tarek/JPA--Money-Management-system/).***<br>
 
 <p align="center">
-  <img height=140  src="https://images.idgesg.net/images/article/2022/05/what-is-jdbc-fig1-100927559-large.jpg?auto=webp&quality=85,70">
+  <img height=170  src="https://images.idgesg.net/images/article/2022/05/what-is-jdbc-fig1-100927559-large.jpg?auto=webp&quality=85,70">
 </p>
 <br>
 
